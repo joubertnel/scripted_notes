@@ -2,4 +2,3 @@ gomer + sumer
 cross + cross
 invisible light
 
-vlad + morgan
